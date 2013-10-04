@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/debian/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/debian/compat
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/debian/changelog
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/debian/copyright
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/debian/rules
+END
+libshark.lintian-overrides
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/debian/libshark.lintian-overrides
+END

@@ -1,0 +1,34 @@
+K 10
+svn:ignore
+V 613
+MklKernelTutorial.cpp
+SubrangeKernelTutorial.cpp
+StoppingCriteria.cpp
+RFTutorial.cpp
+regressionTutorial.cpp
+quickstartTutorial.cpp
+OneVersusOne.cpp
+MultiTaskSvm.cpp
+McSvmLinear.cpp
+McSvm.cpp
+linearRegressionTutorial.cpp
+LDATutorial.cpp
+LassoRegression.cpp
+KNNTutorial.cpp
+kNN.cpp
+KernelSelection.cpp
+KernelRegression.cpp
+FFNNSetStructureTutorial.cpp
+FFNNMultiClassNormalizedTraining.cpp
+FFNNMultiClassCrossEntropy.cpp
+FFNNBasicTutorial.cpp
+elmTutorial.cpp
+CVFolds.cpp
+CSvmWithThresholdConverter.cpp
+CSvmTutorial.cpp
+CSvmMaxLikelihoodMS.cpp
+CSvmGridSearchTutorial.cpp
+CARTTutorial.cpp
+quickstartData.shark-labeled
+
+END

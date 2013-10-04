@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/shark-project/code/!svn/ver/2902/trunk/Shark/doc/sphinx_pages
+END
+conf.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/shark-project/code/!svn/ver/2856/trunk/Shark/doc/sphinx_pages/conf.py.in
+END
+cimath.sty
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/doc/sphinx_pages/cimath.sty
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/doc/sphinx_pages/Makefile
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/shark-project/code/!svn/ver/2898/trunk/Shark/doc/sphinx_pages/index.rst
+END

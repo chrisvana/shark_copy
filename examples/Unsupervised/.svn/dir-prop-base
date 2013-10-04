@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 145
+SparseAETutorial.cpp
+PCATutorial.cpp
+PCA.cpp
+OneClassSvm.cpp
+KMeansTutorial.cpp
+HierarchicalClustering.cpp
+BinaryRBM.cpp
+clc.csv
+cl2.csv
+cl1.csv
+
+END

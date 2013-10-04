@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/examples/Supervised/data
+END
+diabetes.csv
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/examples/Supervised/data/diabetes.csv
+END
+C.csv
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/examples/Supervised/data/C.csv
+END
+regressionInputs.csv
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/examples/Supervised/data/regressionInputs.csv
+END
+regressionLabels.csv
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/examples/Supervised/data/regressionLabels.csv
+END
+quickstartData.csv
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/examples/Supervised/data/quickstartData.csv
+END

@@ -1,0 +1,30 @@
+K 10
+svn:ignore
+V 325
+SharkTargets.cmake
+SharkConfigVersion.cmake
+SharkConfig.cmake
+CMakeFiles
+cmake
+CTestTestfile.cmake
+CPackSourceConfig.cmake
+CPackConfig.cmake
+CMakeCache.txt
+cmake_install.cmake
+bin
+.settings
+autom4te.cache
+lib
+.cdtproject
+.project
+config.status
+configure
+Makefile
+Makefile.in
+SharkConfig
+*.dsw
+share
+debug_build
+release_build
+
+END

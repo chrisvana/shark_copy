@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/include/shark/LinAlg/Impl
+END
+eigensort.inl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/include/shark/LinAlg/Impl/eigensort.inl
+END
+Cholesky.inl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/include/shark/LinAlg/Impl/Cholesky.inl
+END
+g_inverse.inl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/include/shark/LinAlg/Impl/g_inverse.inl
+END
+solveTriangular.inl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/include/shark/LinAlg/Impl/solveTriangular.inl
+END
+pivotingRQ.inl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/include/shark/LinAlg/Impl/pivotingRQ.inl
+END
+linmin.inl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/include/shark/LinAlg/Impl/linmin.inl
+END
+invert.inl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/include/shark/LinAlg/Impl/invert.inl
+END
+lnsrch.inl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/include/shark/LinAlg/Impl/lnsrch.inl
+END
+dlinmin.inl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/include/shark/LinAlg/Impl/dlinmin.inl
+END
+svd.inl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/include/shark/LinAlg/Impl/svd.inl
+END
+eigensymm.inl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/include/shark/LinAlg/Impl/eigensymm.inl
+END
+solveSystem.inl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/include/shark/LinAlg/Impl/solveSystem.inl
+END

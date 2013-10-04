@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/ObjectiveFunctions
+END
+NegativeGaussianProcessEvidence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/ObjectiveFunctions/NegativeGaussianProcessEvidence.cpp
+END
+ErrorFunction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/shark-project/code/!svn/ver/2748/trunk/Shark/Test/ObjectiveFunctions/ErrorFunction.cpp
+END
+LooError.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/shark-project/code/!svn/ver/2634/trunk/Shark/Test/ObjectiveFunctions/LooError.cpp
+END
+CrossValidation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/shark-project/code/!svn/ver/2634/trunk/Shark/Test/ObjectiveFunctions/CrossValidation.cpp
+END
+SquaredLoss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/ObjectiveFunctions/SquaredLoss.cpp
+END
+AUC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/shark-project/code/!svn/ver/2606/trunk/Shark/Test/ObjectiveFunctions/AUC.cpp
+END
+CrossEntropy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/ObjectiveFunctions/CrossEntropy.cpp
+END
+Benchmarks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/ObjectiveFunctions/Benchmarks.cpp
+END
+RadiusMarginQuotient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/shark-project/code/!svn/ver/2865/trunk/Shark/Test/ObjectiveFunctions/RadiusMarginQuotient.cpp
+END
+AbsoluteLoss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/ObjectiveFunctions/AbsoluteLoss.cpp
+END
+NoisyErrorFunction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/ObjectiveFunctions/NoisyErrorFunction.cpp
+END
+DenoisingAutoencoderError.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/ObjectiveFunctions/DenoisingAutoencoderError.cpp
+END
+NegativeClassificationLogLikelihood.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/ObjectiveFunctions/NegativeClassificationLogLikelihood.cpp
+END
+TestLoss.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/ObjectiveFunctions/TestLoss.h
+END
+TestObjectiveFunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/shark-project/code/!svn/ver/2692/trunk/Shark/Test/ObjectiveFunctions/TestObjectiveFunction.h
+END
+KernelTargetAlignment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/ObjectiveFunctions/KernelTargetAlignment.cpp
+END
+SparseFFNetError.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/shark-project/code/!svn/ver/2703/trunk/Shark/Test/ObjectiveFunctions/SparseFFNetError.cpp
+END
+SvmLogisticInterpretation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/ObjectiveFunctions/SvmLogisticInterpretation.cpp
+END
+LooErrorCSvm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/shark-project/code/!svn/ver/2864/trunk/Shark/Test/ObjectiveFunctions/LooErrorCSvm.cpp
+END

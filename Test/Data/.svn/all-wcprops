@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/Data
+END
+CVDatasetTools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/Data/CVDatasetTools.cpp
+END
+DataView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/shark-project/code/!svn/ver/2634/trunk/Shark/Test/Data/DataView.cpp
+END
+Dataset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/shark-project/code/!svn/ver/2849/trunk/Shark/Test/Data/Dataset.cpp
+END
+MKLBatchInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/Data/MKLBatchInterface.cpp
+END
+HDF5Tests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/shark-project/code/!svn/ver/2606/trunk/Shark/Test/Data/HDF5Tests.cpp
+END
+Statistics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/Data/Statistics.cpp
+END
+Csv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/shark-project/code/!svn/ver/2888/trunk/Shark/Test/Data/Csv.cpp
+END
+Libsvm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/Data/Libsvm.cpp
+END
+PrecomputedMatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/Data/PrecomputedMatrix.cpp
+END

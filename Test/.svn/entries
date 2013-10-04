@@ -1,0 +1,101 @@
+10
+
+dir
+2905
+https://svn.code.sf.net/p/shark-project/code/trunk/Shark/Test
+https://svn.code.sf.net/p/shark-project/code
+
+
+
+2013-08-29T06:38:02.633779Z
+2895
+oswinkrause
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+f06a09e3-3943-0410-8714-a4bb87ba143f
+
+testing_files
+dir
+
+RBM
+dir
+
+Models
+dir
+
+ObjectiveFunctions
+dir
+
+LinAlg
+dir
+
+Rng
+dir
+
+Fuzzy
+dir
+
+Core
+dir
+
+test_data
+dir
+
+Algorithms
+dir
+
+Data
+dir
+
+Network
+dir
+
+EALib
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2013-09-03T17:42:22.000000Z
+2a1565a5ce43044beabf850adba708b2
+2013-08-29T06:38:02.633779Z
+2895
+oswinkrause
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13670
+

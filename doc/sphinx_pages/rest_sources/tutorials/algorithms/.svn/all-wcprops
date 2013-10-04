@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/shark-project/code/!svn/ver/2902/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/algorithms
+END
+svm.tut
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/shark-project/code/!svn/ver/2838/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/algorithms/svm.tut
+END
+rf.tut
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/shark-project/code/!svn/ver/2837/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/algorithms/rf.tut
+END
+linearRegression.tut
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/shark-project/code/!svn/ver/2826/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/algorithms/linearRegression.tut
+END
+extreme_learning_machine.tut
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/shark-project/code/!svn/ver/2828/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/algorithms/extreme_learning_machine.tut
+END
+kmeans.tut
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/shark-project/code/!svn/ver/2837/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/algorithms/kmeans.tut
+END
+nearestNeighbor.tut
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/shark-project/code/!svn/ver/2902/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/algorithms/nearestNeighbor.tut
+END
+quadratic_programs.rst
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/shark-project/code/!svn/ver/2743/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/algorithms/quadratic_programs.rst
+END
+binary_rbm.tut
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/shark-project/code/!svn/ver/2826/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/algorithms/binary_rbm.tut
+END
+rbm_module.tut
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/shark-project/code/!svn/ver/2841/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/algorithms/rbm_module.tut
+END
+cart.tut
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/shark-project/code/!svn/ver/2834/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/algorithms/cart.tut
+END
+lkc-mkl.tut
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/shark-project/code/!svn/ver/2898/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/algorithms/lkc-mkl.tut
+END
+mocma.tut
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/shark-project/code/!svn/ver/2877/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/algorithms/mocma.tut
+END
+svmLikelihoodModelSelection.rst
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/algorithms/svmLikelihoodModelSelection.rst
+END
+svmModelSelection.tut
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/shark-project/code/!svn/ver/2839/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/algorithms/svmModelSelection.tut
+END
+lda.tut
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/shark-project/code/!svn/ver/2826/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/algorithms/lda.tut
+END
+cma.tut
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/shark-project/code/!svn/ver/2869/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/algorithms/cma.tut
+END
+sparse_ae.tut
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/shark-project/code/!svn/ver/2840/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/algorithms/sparse_ae.tut
+END
+ffnet.tut
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/shark-project/code/!svn/ver/2829/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/algorithms/ffnet.tut
+END
+pca.tut
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/shark-project/code/!svn/ver/2835/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/algorithms/pca.tut
+END

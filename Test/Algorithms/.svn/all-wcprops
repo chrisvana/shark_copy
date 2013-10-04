@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/Algorithms
+END
+KMeans.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/Algorithms/KMeans.cpp
+END
+Hypervolume.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/Algorithms/Hypervolume.cpp
+END
+nearestneighbors.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/shark-project/code/!svn/ver/2748/trunk/Shark/Test/Algorithms/nearestneighbors.cpp
+END
+testFunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/Algorithms/testFunction.h
+END
+GridSearch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/Algorithms/GridSearch.cpp
+END
+JaakkolaHeuristic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/shark-project/code/!svn/ver/2634/trunk/Shark/Test/Algorithms/JaakkolaHeuristic.cpp
+END

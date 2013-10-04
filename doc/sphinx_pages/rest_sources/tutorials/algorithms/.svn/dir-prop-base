@@ -1,0 +1,23 @@
+K 10
+svn:ignore
+V 239
+lkc-mkl.rst
+mkl-ckf.rst
+mocma.rst
+svmModelSelection.rst
+svm.rst
+sparse_ae.rst
+rf.rst
+rbm_module.rst
+pca.rst
+nearestNeighbor.rst
+linearRegression.rst
+lda.rst
+kmeans.rst
+ffnet.rst
+extreme_learning_machine.rst
+cma.rst
+cart.rst
+binary_rbm.rst
+
+END

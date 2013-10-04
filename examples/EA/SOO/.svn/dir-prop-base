@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 131
+CMAPlot.cpp
+TSP.cpp
+OnePlusOneES.cpp
+ElitistCMASimple.cpp
+ElitistCMA.cpp
+CMSA.cpp
+CMASimple.cpp
+CMAProbes.cpp
+CMA.cpp
+AckleyES.cpp
+
+END

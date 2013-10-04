@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/LinAlg
+END
+eigensort.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/LinAlg/eigensort.cpp
+END
+eigenerr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/LinAlg/eigenerr.cpp
+END
+Initialize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/LinAlg/Initialize.cpp
+END
+dlmin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/LinAlg/dlmin.cpp
+END
+DiagonalMatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/shark-project/code/!svn/ver/2735/trunk/Shark/Test/LinAlg/DiagonalMatrix.cpp
+END
+Metrics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/LinAlg/Metrics.cpp
+END
+invertSymmPositiveDefinite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/LinAlg/invertSymmPositiveDefinite.cpp
+END
+lnrsrch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/LinAlg/lnrsrch.cpp
+END
+VectorTransformations.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/LinAlg/VectorTransformations.cpp
+END
+choleskyDecomposition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/LinAlg/choleskyDecomposition.cpp
+END
+sumRows.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/LinAlg/sumRows.cpp
+END
+repeat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/LinAlg/repeat.cpp
+END
+g_inverse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/LinAlg/g_inverse.cpp
+END
+fast_prod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/LinAlg/fast_prod.cpp
+END
+Proxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/LinAlg/Proxy.cpp
+END
+permute.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/LinAlg/permute.cpp
+END
+RQ.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/LinAlg/RQ.cpp
+END
+rotations.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/LinAlg/rotations.cpp
+END
+linmin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/LinAlg/linmin.cpp
+END
+solve.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/LinAlg/solve.cpp
+END
+svd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/LinAlg/svd.cpp
+END
+eigensymm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/LinAlg/eigensymm.cpp
+END

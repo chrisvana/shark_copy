@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/include/shark/LinAlg/BLAS
+END
+VectorMatrixType.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/include/shark/LinAlg/BLAS/VectorMatrixType.h
+END
+Tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/include/shark/LinAlg/BLAS/Tools.h
+END
+Initialize.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/include/shark/LinAlg/BLAS/Initialize.h
+END
+Proxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/include/shark/LinAlg/BLAS/Proxy.h
+END
+fastOperations.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/include/shark/LinAlg/BLAS/fastOperations.h
+END
+StorageAdaptors.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/include/shark/LinAlg/BLAS/StorageAdaptors.h
+END
+Metrics.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/include/shark/LinAlg/BLAS/Metrics.h
+END
+ublas.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/include/shark/LinAlg/BLAS/ublas.h
+END
+Permutation.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/include/shark/LinAlg/BLAS/Permutation.h
+END
+MatrixVectorOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/include/shark/LinAlg/BLAS/MatrixVectorOperation.h
+END

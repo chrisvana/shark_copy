@@ -1,0 +1,27 @@
+K 10
+svn:ignore
+V 729
+check_kernelmatrix_sparse_c_none.libsvm
+check_kernelmatrix_r_var.libsvm
+check_kernelmatrix_r_traceN.libsvm
+check_kernelmatrix_r_trace.libsvm
+check_kernelmatrix_r_none.libsvm
+check_kernelmatrix_r_center_tr.libsvm
+check_kernelmatrix_r_center.libsvm
+check_kernelmatrix_mcc_var.libsvm
+check_kernelmatrix_mcc_traceN.libsvm
+check_kernelmatrix_mcc_trace.libsvm
+check_kernelmatrix_mcc_none.libsvm
+check_kernelmatrix_mcc_center_tr.libsvm
+check_kernelmatrix_mcc_center.libsvm
+check_kernelmatrix_c_var.libsvm
+check_kernelmatrix_c_traceN.libsvm
+check_kernelmatrix_c_trace.libsvm
+check_kernelmatrix_c_none.libsvm
+check_kernelmatrix_c_center_tr.libsvm
+check_kernelmatrix_c_center.libsvm
+encoding_filters_dos2pos.txt
+check_sparse.csv
+check.csv
+
+END

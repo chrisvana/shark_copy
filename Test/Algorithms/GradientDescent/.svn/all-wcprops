@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/Algorithms/GradientDescent
+END
+BFGS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/Algorithms/GradientDescent/BFGS.cpp
+END
+Rprop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/Algorithms/GradientDescent/Rprop.cpp
+END
+SteepestDescent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/Algorithms/GradientDescent/SteepestDescent.cpp
+END
+NoisyRprop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/Algorithms/GradientDescent/NoisyRprop.cpp
+END
+CG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/Algorithms/GradientDescent/CG.cpp
+END
+IRLS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/Algorithms/GradientDescent/IRLS.cpp
+END
+LBFGS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/shark-project/code/!svn/ver/2696/trunk/Shark/Test/Algorithms/GradientDescent/LBFGS.cpp
+END
+Quickprop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/Algorithms/GradientDescent/Quickprop.cpp
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/shark-project/code/!svn/ver/2885/trunk/Shark/Test/Models
+END
+CARTClassifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/Models/CARTClassifier.cpp
+END
+OneVersusOneClassifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/shark-project/code/!svn/ver/2703/trunk/Shark/Test/Models/OneVersusOneClassifier.cpp
+END
+FFNet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/shark-project/code/!svn/ver/2748/trunk/Shark/Test/Models/FFNet.cpp
+END
+CMAC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/shark-project/code/!svn/ver/2634/trunk/Shark/Test/Models/CMAC.cpp
+END
+LinearNorm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/shark-project/code/!svn/ver/2748/trunk/Shark/Test/Models/LinearNorm.cpp
+END
+derivativeTestHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/Models/derivativeTestHelper.h
+END
+ConcatenatedModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/shark-project/code/!svn/ver/2748/trunk/Shark/Test/Models/ConcatenatedModel.cpp
+END
+SigmoidModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/Models/SigmoidModel.cpp
+END
+RFClassifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/shark-project/code/!svn/ver/2634/trunk/Shark/Test/Models/RFClassifier.cpp
+END
+SoftNearestNeighborClassifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/Models/SoftNearestNeighborClassifier.cpp
+END
+RBFNet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/Models/RBFNet.cpp
+END
+NearestNeighborRegression.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/shark-project/code/!svn/ver/2634/trunk/Shark/Test/Models/NearestNeighborRegression.cpp
+END
+Softmax.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/shark-project/code/!svn/ver/2748/trunk/Shark/Test/Models/Softmax.cpp
+END
+RNNet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/shark-project/code/!svn/ver/2748/trunk/Shark/Test/Models/RNNet.cpp
+END
+NBClassifierTests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/Models/NBClassifierTests.cpp
+END
+OnlineRNNet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/Models/OnlineRNNet.cpp
+END
+LinearModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/Models/LinearModel.cpp
+END

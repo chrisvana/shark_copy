@@ -1,0 +1,33 @@
+K 10
+svn:ignore
+V 513
+splitfile_test2.split
+splitfile_test.split
+set_from_file.split
+my_random_set.split
+my_new_set.split
+warm.txt
+hot.txt
+curve.dat
+cold.txt
+check.csv
+OnePlusOneES_Ellipsoid.html
+OnePlusOneES_Discus.html
+OnePlusOneES_Cigar.html
+ElitistCMA_Rosenbrock.html
+ElitistCMA_Ellipsoid.html
+ElitistCMA_Discus.html
+ElitistCMA_Cigar.html
+CMSA_Rosenbrock.html
+CMSA_Ellipsoid.html
+CMSA_Discus.html
+CMSA_Cigar.html
+CMA_Rosenbrock.html
+CMA_Ellipsoid.html
+CMA_Discus.html
+CMA_Cigar.html
+thyroid.csv
+thyroid.shark-data
+new_shark_format
+
+END

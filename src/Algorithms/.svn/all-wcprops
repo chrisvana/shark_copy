@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/shark-project/code/!svn/ver/2904/trunk/Shark/src/Algorithms
+END
+CARTTrainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/shark-project/code/!svn/ver/2904/trunk/Shark/src/Algorithms/CARTTrainer.cpp
+END
+KMeans.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/shark-project/code/!svn/ver/2718/trunk/Shark/src/Algorithms/KMeans.cpp
+END
+SigmoidFit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/src/Algorithms/SigmoidFit.cpp
+END
+LDA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/shark-project/code/!svn/ver/2890/trunk/Shark/src/Algorithms/LDA.cpp
+END
+FisherLDA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/src/Algorithms/FisherLDA.cpp
+END
+PCA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/src/Algorithms/PCA.cpp
+END
+NoisyRprop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/shark-project/code/!svn/ver/2703/trunk/Shark/src/Algorithms/NoisyRprop.cpp
+END
+LinearRegression.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/src/Algorithms/LinearRegression.cpp
+END
+RFTrainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/shark-project/code/!svn/ver/2748/trunk/Shark/src/Algorithms/RFTrainer.cpp
+END
+GLPK.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/src/Algorithms/GLPK.cpp
+END

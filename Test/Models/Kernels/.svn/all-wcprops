@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/shark-project/code/!svn/ver/2885/trunk/Shark/Test/Models/Kernels
+END
+KernelHelpers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/shark-project/code/!svn/ver/2634/trunk/Shark/Test/Models/Kernels/KernelHelpers.cpp
+END
+DiscreteKernel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/Models/Kernels/DiscreteKernel.cpp
+END
+KernelExpansion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/shark-project/code/!svn/ver/2748/trunk/Shark/Test/Models/Kernels/KernelExpansion.cpp
+END
+GaussianRbfKernel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/shark-project/code/!svn/ver/2748/trunk/Shark/Test/Models/Kernels/GaussianRbfKernel.cpp
+END
+ArdKernel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/Models/Kernels/ArdKernel.cpp
+END
+SubrangeKernel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/shark-project/code/!svn/ver/2634/trunk/Shark/Test/Models/Kernels/SubrangeKernel.cpp
+END
+KernelDerivativeTestHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/shark-project/code/!svn/ver/2646/trunk/Shark/Test/Models/Kernels/KernelDerivativeTestHelper.h
+END
+LinearKernel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/Models/Kernels/LinearKernel.cpp
+END
+MonomialKernel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/Models/Kernels/MonomialKernel.cpp
+END
+MultiTaskKernel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/Models/Kernels/MultiTaskKernel.cpp
+END
+MissingFeaturesKernelExpansionTests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/shark-project/code/!svn/ver/2634/trunk/Shark/Test/Models/Kernels/MissingFeaturesKernelExpansionTests.cpp
+END
+KernelNearestNeighborRegression.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/Models/Kernels/KernelNearestNeighborRegression.cpp
+END
+ProductKernel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/Models/Kernels/ProductKernel.cpp
+END
+MklKernel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/shark-project/code/!svn/ver/2885/trunk/Shark/Test/Models/Kernels/MklKernel.cpp
+END
+PolynomialKernel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/Models/Kernels/PolynomialKernel.cpp
+END
+KernelNearestNeighborClassifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/Models/Kernels/KernelNearestNeighborClassifier.cpp
+END
+KernelFunction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/shark-project/code/!svn/ver/2748/trunk/Shark/Test/Models/Kernels/KernelFunction.cpp
+END
+WeightedSumKernel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/shark-project/code/!svn/ver/2885/trunk/Shark/Test/Models/Kernels/WeightedSumKernel.cpp
+END
+EvalSkipMissingFeaturesTests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/Models/Kernels/EvalSkipMissingFeaturesTests.cpp
+END
+CSvmDerivative.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/shark-project/code/!svn/ver/2876/trunk/Shark/Test/Models/Kernels/CSvmDerivative.cpp
+END
+ScaledKernel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/Models/Kernels/ScaledKernel.cpp
+END

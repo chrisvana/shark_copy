@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 77
+CTestTestfile.cmake
+bin
+CMakeFiles
+
+Makefile
+
+cmake_install.cmake
+
+tut2rst
+
+
+
+END

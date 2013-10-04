@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/shark-project/code/!svn/ver/2772/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/concepts/data
+END
+datasets.rst
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/shark-project/code/!svn/ver/2772/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/concepts/data/datasets.rst
+END
+dataset_subsets.rst
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/shark-project/code/!svn/ver/2708/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/concepts/data/dataset_subsets.rst
+END
+labels.rst
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/shark-project/code/!svn/ver/2639/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/concepts/data/labels.rst
+END
+import_data.rst
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/shark-project/code/!svn/ver/2640/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/concepts/data/import_data.rst
+END
+normalization.rst
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/shark-project/code/!svn/ver/2702/trunk/Shark/doc/sphinx_pages/rest_sources/tutorials/concepts/data/normalization.rst
+END

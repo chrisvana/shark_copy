@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/src/Models
+END
+RBFNet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/src/Models/RBFNet.cpp
+END
+Softmax.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/src/Models/Softmax.cpp
+END
+CMAC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/shark-project/code/!svn/ver/2703/trunk/Shark/src/Models/CMAC.cpp
+END
+LinearNorm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/src/Models/LinearNorm.cpp
+END
+RNNet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/shark-project/code/!svn/ver/2741/trunk/Shark/src/Models/RNNet.cpp
+END
+Converter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/src/Models/Converter.cpp
+END
+KalmanFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/shark-project/code/!svn/ver/2703/trunk/Shark/src/Models/KalmanFilter.cpp
+END
+Centroids.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/shark-project/code/!svn/ver/2703/trunk/Shark/src/Models/Centroids.cpp
+END
+RecurrentStructure.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/shark-project/code/!svn/ver/2750/trunk/Shark/src/Models/RecurrentStructure.cpp
+END
+OnlineRNNet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/shark-project/code/!svn/ver/2703/trunk/Shark/src/Models/OnlineRNNet.cpp
+END
+SigmoidModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/src/Models/SigmoidModel.cpp
+END

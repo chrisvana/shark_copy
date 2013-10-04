@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 60
+CMakeFiles
+Makefile
+CTestTestfile.cmake
+cmake_install.cmake
+
+END

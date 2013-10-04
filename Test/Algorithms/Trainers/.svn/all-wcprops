@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/Algorithms/Trainers
+END
+RegularizationNetworkTrainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/shark-project/code/!svn/ver/2739/trunk/Shark/Test/Algorithms/Trainers/RegularizationNetworkTrainer.cpp
+END
+SigmoidFit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/Algorithms/Trainers/SigmoidFit.cpp
+END
+LDA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/shark-project/code/!svn/ver/2890/trunk/Shark/Test/Algorithms/Trainers/LDA.cpp
+END
+FisherLDA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/shark-project/code/!svn/ver/2748/trunk/Shark/Test/Algorithms/Trainers/FisherLDA.cpp
+END
+PCA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/Algorithms/Trainers/PCA.cpp
+END
+McSvmTrainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/shark-project/code/!svn/ver/2847/trunk/Shark/Test/Algorithms/Trainers/McSvmTrainer.cpp
+END
+LinearRegression.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/shark-project/code/!svn/ver/2661/trunk/Shark/Test/Algorithms/Trainers/LinearRegression.cpp
+END
+NBClassifierTrainerTests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/shark-project/code/!svn/ver/2876/trunk/Shark/Test/Algorithms/Trainers/NBClassifierTrainerTests.cpp
+END
+Perceptron.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/Algorithms/Trainers/Perceptron.cpp
+END
+OneClassSvmTrainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/shark-project/code/!svn/ver/2722/trunk/Shark/Test/Algorithms/Trainers/OneClassSvmTrainer.cpp
+END
+MissingFeatureSvmTrainerTests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/shark-project/code/!svn/ver/2876/trunk/Shark/Test/Algorithms/Trainers/MissingFeatureSvmTrainerTests.cpp
+END
+EpsilonSvmTrainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/shark-project/code/!svn/ver/2722/trunk/Shark/Test/Algorithms/Trainers/EpsilonSvmTrainer.cpp
+END
+LinearSvmTrainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/Algorithms/Trainers/LinearSvmTrainer.cpp
+END
+Normalization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/shark-project/code/!svn/ver/2634/trunk/Shark/Test/Algorithms/Trainers/Normalization.cpp
+END
+KernelMeanClassifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/shark-project/code/!svn/ver/2729/trunk/Shark/Test/Algorithms/Trainers/KernelMeanClassifier.cpp
+END
+KernelNormalization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/shark-project/code/!svn/ver/2634/trunk/Shark/Test/Algorithms/Trainers/KernelNormalization.cpp
+END
+CSvmTrainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/shark-project/code/!svn/ver/2785/trunk/Shark/Test/Algorithms/Trainers/CSvmTrainer.cpp
+END

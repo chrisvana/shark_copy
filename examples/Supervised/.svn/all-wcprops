@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/shark-project/code/!svn/ver/2897/trunk/Shark/examples/Supervised
+END
+FFNNBasicTutorial.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/shark-project/code/!svn/ver/2831/trunk/Shark/examples/Supervised/FFNNBasicTutorial.tpp
+END
+CARTTutorial.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/shark-project/code/!svn/ver/2879/trunk/Shark/examples/Supervised/CARTTutorial.tpp
+END
+quickstartTutorial.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/shark-project/code/!svn/ver/2890/trunk/Shark/examples/Supervised/quickstartTutorial.tpp
+END
+McSvmLinear.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/examples/Supervised/McSvmLinear.tpp
+END
+KernelRegression.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/shark-project/code/!svn/ver/2821/trunk/Shark/examples/Supervised/KernelRegression.tpp
+END
+LassoRegression.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/examples/Supervised/LassoRegression.tpp
+END
+CSvmMaxLikelihoodMS.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/examples/Supervised/CSvmMaxLikelihoodMS.tpp
+END
+FFNNMultiClassCrossEntropy.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/shark-project/code/!svn/ver/2821/trunk/Shark/examples/Supervised/FFNNMultiClassCrossEntropy.tpp
+END
+LDATutorial.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/shark-project/code/!svn/ver/2890/trunk/Shark/examples/Supervised/LDATutorial.tpp
+END
+McSvm.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/examples/Supervised/McSvm.tpp
+END
+KernelSelection.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/shark-project/code/!svn/ver/2821/trunk/Shark/examples/Supervised/KernelSelection.tpp
+END
+StoppingCriteria.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/shark-project/code/!svn/ver/2879/trunk/Shark/examples/Supervised/StoppingCriteria.tpp
+END
+kNN.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/shark-project/code/!svn/ver/2821/trunk/Shark/examples/Supervised/kNN.tpp
+END
+CSvmGridSearchTutorial.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/shark-project/code/!svn/ver/2839/trunk/Shark/examples/Supervised/CSvmGridSearchTutorial.tpp
+END
+OneVersusOne.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/shark-project/code/!svn/ver/2821/trunk/Shark/examples/Supervised/OneVersusOne.tpp
+END
+RFTutorial.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/shark-project/code/!svn/ver/2879/trunk/Shark/examples/Supervised/RFTutorial.tpp
+END
+SubrangeKernelTutorial.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/shark-project/code/!svn/ver/2821/trunk/Shark/examples/Supervised/SubrangeKernelTutorial.tpp
+END
+CSvmTutorial.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/shark-project/code/!svn/ver/2838/trunk/Shark/examples/Supervised/CSvmTutorial.tpp
+END
+linearRegressionTutorial.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/shark-project/code/!svn/ver/2879/trunk/Shark/examples/Supervised/linearRegressionTutorial.tpp
+END
+CVFolds.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/shark-project/code/!svn/ver/2821/trunk/Shark/examples/Supervised/CVFolds.tpp
+END
+elmTutorial.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/shark-project/code/!svn/ver/2828/trunk/Shark/examples/Supervised/elmTutorial.tpp
+END
+MultiTaskSvm.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/shark-project/code/!svn/ver/2836/trunk/Shark/examples/Supervised/MultiTaskSvm.tpp
+END
+regressionTutorial.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/shark-project/code/!svn/ver/2879/trunk/Shark/examples/Supervised/regressionTutorial.tpp
+END
+FFNNSetStructureTutorial.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/examples/Supervised/FFNNSetStructureTutorial.tpp
+END
+MklKernelTutorial.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/shark-project/code/!svn/ver/2897/trunk/Shark/examples/Supervised/MklKernelTutorial.tpp
+END
+FFNNMultiClassNormalizedTraining.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/shark-project/code/!svn/ver/2821/trunk/Shark/examples/Supervised/FFNNMultiClassNormalizedTraining.tpp
+END
+CSvmWithThresholdConverter.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/shark-project/code/!svn/ver/2838/trunk/Shark/examples/Supervised/CSvmWithThresholdConverter.tpp
+END
+KNNTutorial.tpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/shark-project/code/!svn/ver/2879/trunk/Shark/examples/Supervised/KNNTutorial.tpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/examples/Supervised/Makefile
+END

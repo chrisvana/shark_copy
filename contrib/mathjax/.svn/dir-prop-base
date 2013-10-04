@@ -1,0 +1,19 @@
+K 10
+svn:ignore
+V 117
+README-branch.txt
+README.md
+MathJax.js
+LICENSE
+unpacked
+test
+jax
+images
+fonts
+extensions
+docs
+config
+.gitignore
+.git
+
+END

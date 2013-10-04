@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/RBM
+END
+PCDTraining.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/shark-project/code/!svn/ver/2751/trunk/Shark/Test/RBM/PCDTraining.cpp
+END
+MarkovChain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/shark-project/code/!svn/ver/2751/trunk/Shark/Test/RBM/MarkovChain.cpp
+END
+GibbsOperator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/RBM/GibbsOperator.cpp
+END
+AverageEnergyGradient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/RBM/AverageEnergyGradient.cpp
+END
+ParallelTemperingTraining.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/shark-project/code/!svn/ver/2751/trunk/Shark/Test/RBM/ParallelTemperingTraining.cpp
+END
+GaussianLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/RBM/GaussianLayer.cpp
+END
+ExactGradientTraining.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/shark-project/code/!svn/ver/2751/trunk/Shark/Test/RBM/ExactGradientTraining.cpp
+END
+BinaryLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/RBM/BinaryLayer.cpp
+END
+ExactGradient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/RBM/ExactGradient.cpp
+END
+Analytics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/RBM/Analytics.cpp
+END
+TemperedMarkovChain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/shark-project/code/!svn/ver/2584/trunk/Shark/Test/RBM/TemperedMarkovChain.cpp
+END
+Energy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/RBM/Energy.cpp
+END
+ContrastiveDivergenceTraining.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/RBM/ContrastiveDivergenceTraining.cpp
+END
+TruncatedExponentialLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/shark-project/code/!svn/ver/2895/trunk/Shark/Test/RBM/TruncatedExponentialLayer.cpp
+END
+ContrastiveDivergence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/shark-project/code/!svn/ver/2751/trunk/Shark/Test/RBM/ContrastiveDivergence.cpp
+END
