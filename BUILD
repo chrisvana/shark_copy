@@ -7,7 +7,8 @@
                      "-DBoost_NO_SYSTEM_PATHS=TRUE"
     ],
     "dependencies": [ "../boost:boost" ],
-    "outs": [ "$GEN_DIR/build/lib/libshark.a" ]
+    "outs": [ "$GEN_DIR/build/lib/libshark.a" ],
+    "licenses": [ "http://opensource.org/licenses/gpl-3.0.html" ]
   } },
   { "cc_library": {
       "name": "shark",
